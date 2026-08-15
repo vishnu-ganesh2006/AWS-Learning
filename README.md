@@ -20,7 +20,7 @@ I learned how to launch an EC2 instance, configure it, and understand the basic 
  My Practice
 
 I successfully launched an EC2 instance and checked that it was running properly.
-![EC2 Launch](ec2-launch.png)
+![EC2 Launch](ec2-launch.png.png)
 
 What's Next?
 
