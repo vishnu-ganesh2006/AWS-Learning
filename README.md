@@ -25,4 +25,4 @@ I successfully launched an EC2 instance and checked that it was running properly
 
 ## 🏆 Certifications & Achievements
 
-<img src="./aws-cloud-practitioner.png" width="180" alt="AWS Cloud Quest Cloud Practitioner">
+<img src="./aws-cloud-practitioner.png.png" width="180" alt="AWS Cloud Quest Cloud Practitioner">
