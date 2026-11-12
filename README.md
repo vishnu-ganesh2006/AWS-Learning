@@ -21,16 +21,6 @@ I learned how to launch an EC2 instance, configure it, and understand the basic 
 
 I successfully launched an EC2 instance and checked that it was running properly.
 ![EC2 Launch](ec2-launch.png.png)
+## 🏆 Certifications & Achievements
 
-What's Next?
-
-I want to continue learning more AWS services, especially:
-
-* IAM
-* S3
-* VPC
-* RDS
-* CloudWatch
-* Load Balancing
-
-This is one of my first steps toward learning **AWS, Cloud Computing, and DevOps**. 
+![AWS Cloud Quest - Cloud Practitioner](./aws-cloud-practitioner.png)
