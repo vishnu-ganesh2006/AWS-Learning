@@ -21,6 +21,8 @@ I learned how to launch an EC2 instance, configure it, and understand the basic 
 
 I successfully launched an EC2 instance and checked that it was running properly.
 ![EC2 Launch](ec2-launch.png.png)
+
+
 ## 🏆 Certifications & Achievements
 
-![AWS Cloud Quest - Cloud Practitioner](./aws-cloud-practitioner.png)
+<img src="./aws-cloud-practitioner.png" width="180" alt="AWS Cloud Quest Cloud Practitioner">
